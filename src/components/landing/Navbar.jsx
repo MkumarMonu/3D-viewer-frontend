@@ -10,7 +10,7 @@ const Navbar = () => {
           to="/"
           className="text-2xl font-bold"
         >
-          3D Viewer
+          3D Viewerss
         </Link>
 
         <div className="flex items-center gap-8">
